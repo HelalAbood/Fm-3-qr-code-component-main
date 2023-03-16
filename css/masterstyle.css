@@ -23,9 +23,10 @@ body {
     justify-content: center;
     background-color: var(--white);
     padding: 20px;
-    border-radius: 10px;
+    border-radius: 20px;
     width: 300px;
-    box-shadow: 0 1 1px var(--dark-blue);
+    box-shadow: 0 0 35px 4px hsla(217, 45%, 22%, 0.176);
+
 }
 .holder .box img { 
     border-radius: 10px;
